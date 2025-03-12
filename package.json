@@ -4,7 +4,7 @@
   "name": "00react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucianomartinezpal.github.io/00react/",
+  "homepage": "https://lucianomartinezpal.github.io/00react",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
