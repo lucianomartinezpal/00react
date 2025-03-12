@@ -1,9 +1,10 @@
 {
-  "homepage": "https://github.com/lucianomartinezpal/00react",
+  
 
   "name": "00react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/lucianomartinezpal/00react",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
